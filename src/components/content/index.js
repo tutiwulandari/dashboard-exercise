@@ -1,4 +1,4 @@
-import {Card, Col, Row} from "reactstrap";
+import {Card, CardTitle, Col, Row} from "reactstrap";
 import {CardBody} from "reactstrap";
 
 import PieChart from "../../pages/pieChart";
@@ -32,7 +32,11 @@ function Content() {
                                           <LineGraph />
                                           <br/>
                                           <br/>
+                                          <br/>
                                           <br />
+                                          <br />
+                                          <br/>
+                                          <br/>
                                       </CardBody>
                                   </Card>
                               </Col>
