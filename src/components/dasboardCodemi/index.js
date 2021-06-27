@@ -11,7 +11,7 @@ export default function DashboardCodemi() {
                 <img
                     src={Image1}
                     alt="codemi"
-                    style={{ height:'100px', width:'100px'}}
+                    style={{ height:'50px', width:'50px'}}
                 />
                 <span className="brand-text font-weight" style={{color:"black", fontFamily:"roboto"}}>Codemi</span>
             </a>
